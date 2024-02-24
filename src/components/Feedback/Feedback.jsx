@@ -1,4 +1,3 @@
-import React from 'react';
 import { Wrapper, Button } from './Feedback.styled';
 
 export const Feedback = ({ options, onLeaveFeedback }) => {
